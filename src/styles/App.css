@@ -1,1 +1,22 @@
 
+.App {
+  text-align: center;
+}
+
+.filter-buttons {
+  margin-top: 20px;
+}
+
+.btn {
+  margin: 0 10px;
+  padding: 8px 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #0056b3;
+}
